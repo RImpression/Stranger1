@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_right.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\voice_right.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_icon_2.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_2.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tabline.9.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\tabline.9.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send_btn_normal.9.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\send_btn_normal.9.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\self_icon_2.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\self_icon_2.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_pressed.9.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_pressed.9.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo_normal.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\photo_normal.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_friends_icon.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\new_friends_icon.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_fail_resend_press.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\chat_fail_resend_press.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shake.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\shake.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_left.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\voice_left.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_send_edit.9.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\chat_send_edit.9.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\people_nomal.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\people_nomal.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_right_qp.9.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\chat_right_qp.9.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_fail_resend_normal.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\chat_fail_resend_normal.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_focused.9.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_normal.9.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\content_nomal.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\content_nomal.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_contact_back.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\chat_contact_back.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_focused.9.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_left3.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\voice_left3.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\layout_signup.9.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\layout_signup.9.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_normal.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\login_button_normal.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\layout_inputedit.9.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\layout_inputedit.9.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_title_layer.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\chat_title_layer.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_right1.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\voice_right1.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shack_icon_1.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\shack_icon_1.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\info_sexs.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\info_sexs.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_icon_voice1.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\chat_icon_voice1.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_pressed.9.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_pressed.9.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_icon_voice_short.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\chat_icon_voice_short.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\popup.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome_activity.jpg",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\welcome_activity.jpg"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_icon_1.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_1.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_right3.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\voice_right3.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person_selected.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\person_selected.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_horizontal_line.9.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\base_horizontal_line.9.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_icon_2.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\setting_icon_2.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_tips.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\msg_tips.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person_nomal.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\person_nomal.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slide_button_background.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\slide_button_background.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\layout_background.jpg",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\layout_background.jpg"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_normal.9.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_left2.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\voice_left2.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\content_selected.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\content_selected.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shack_icon_2.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\shack_icon_2.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_top_voice_bg.9.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\chat_top_voice_bg.9.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_key.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\login_key.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_newmessage.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\list_newmessage.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_background.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\switch_background.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_gcoding.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\icon_gcoding.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_right2.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\voice_right2.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_left1.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\voice_left1.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personnal_info_right.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\personnal_info_right.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_top_icon.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\login_top_icon.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\self_icon_1.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\self_icon_1.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_icon_1.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\setting_icon_1.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\info_birthday.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\info_birthday.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\people_selected.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\people_selected.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_geo.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\icon_geo.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_press.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\login_button_press.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_bar.png",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable-hdpi\\bottom_bar.png"
+    }
+]

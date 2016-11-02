@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_chat_voice_left.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\anim\\anim_chat_voice_left.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\outdowntoup.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\anim\\outdowntoup.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_chat_voice_right.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\anim\\anim_chat_voice_right.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\welcome_alpha.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\anim\\welcome_alpha.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\inputodown.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\anim\\inputodown.xml"
+    }
+]

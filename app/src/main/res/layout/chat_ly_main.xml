@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0"
+        android:background="@color/msg_chat_bg" >
+
+        <com.stranger.view.XListView
+            android:id="@+id/mListView"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:cacheColorHint="@android:color/transparent"
+            android:divider="@null"
+            android:fadingEdgeLength="0dp"
+            android:fastScrollEnabled="true"
+            android:listSelector="@color/transparent"
+            android:paddingBottom="10dp"
+            android:transcriptMode="normal" />
+        <!-- 就是listview加了滚动条，所以输入法才会在最底层的布局下面，而不是在editview下面。 -->
+    </RelativeLayout>
+
+    <include layout="@layout/ly_chat_bottom" />
+
+</LinearLayout>

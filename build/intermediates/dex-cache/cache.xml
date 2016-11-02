@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\GitHub\Stranger1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="F:\GitHub\Stranger1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_4484441fc347795ba898274de52b55697a2f0cb1.jar" />
+    </item>
+    <item
+        jar="F:\GitHub\Stranger1\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="868c060abfa9778e598e631f93f94037edbe8996">
+        <dex dex="F:\GitHub\Stranger1\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_ed058ae6f7ffd3deb69fa6f25316dd5558522a1a.jar" />
+    </item>
+    <item
+        jar="F:\GitHub\Stranger1\app\libs\universal-image-loader-1.9.2_sources.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="F:\GitHub\Stranger1\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2_sources_d6387599294de180819ccf7f028b5de480937473.jar" />
+    </item>
+    <item
+        jar="F:\GitHub\Stranger1\app\libs\BmobIM_V1.1.8beta_20150408.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="907a85394fb689ff69e302b8eb077422941d18a5">
+        <dex dex="F:\GitHub\Stranger1\app\build\intermediates\pre-dexed\debug\BmobIM_V1.1.8beta_20150408_d90844198620dbb171281bc13a8707c6afc553ec.jar" />
+    </item>
+    <item
+        jar="F:\GitHub\Stranger1\app\libs\photoview-library-1.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b9000943d77c17d231bf3141a712828f2636c2ea">
+        <dex dex="F:\GitHub\Stranger1\app\build\intermediates\pre-dexed\debug\photoview-library-1.2.2_86d619dbfc86bfd1aa96412d9f5bae8699567f6d.jar" />
+    </item>
+    <item
+        jar="F:\GitHub\Stranger1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="F:\GitHub\Stranger1\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_8141af61fc6ec4d947628209d8602a9e9860f2f7.jar" />
+    </item>
+    <item
+        jar="F:\GitHub\Stranger1\app\libs\BmobSDK_V3.3.4_0310.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e884ae1dd997270c0c97ddbb41e3ad93c055033">
+        <dex dex="F:\GitHub\Stranger1\app\build\intermediates\pre-dexed\debug\BmobSDK_V3.3.4_0310_1fa89e7c99538574d07291a10e45a0d95bc4d77c.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="F:\GitHub\Stranger1\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_a7d45766c78137551b452317db348971b3019fb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="F:\GitHub\Stranger1\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_6f1e7a1081f23c7e6bd22926b11e2a03add2eba1.jar" />
+    </item>
+
+</items>

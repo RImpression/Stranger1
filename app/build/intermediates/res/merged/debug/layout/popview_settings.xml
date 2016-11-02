@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/word_box" >
+
+    <RadioGroup
+        android:id="@+id/choose_gamelevel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:id="@+id/gamelevel1"
+            android:text="@string/gamelevel1" />
+
+        <RadioButton
+            android:id="@+id/gamelevel2"
+            android:text="@string/gamelevel2" />
+
+        <RadioButton
+            android:id="@+id/gamelevel3"
+            android:text="@string/gamelevel3" />
+    </RadioGroup>
+
+</LinearLayout>

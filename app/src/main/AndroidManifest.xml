@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.examplep"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="18" />
+
+    <permission
+        android:name="cn.bmob.permission.push"
+        android:protectionLevel="normal" >
+    </permission>
+
+    <uses-permission android:name="cn.bmob.permission.push" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="cn.bmob.permission.push" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="false"
+        android:resizeable="true"
+        android:smallScreens="true" />
+
+    <application
+        android:name="com.stranger.bean.MApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/CustomActionBarTheme" >
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="ocnQomwS4j25rhUWdgyRxy1K" />
+
+        <!-- 欢迎引导页 -->
+        <activity
+            android:name="com.stranger.pre.WelcomeActivity"
+            android:label="解密陌生人"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 登陆页 -->
+        <activity
+            android:name="com.stranger.pre.DSLoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 个人资料页 -->
+        <activity
+            android:name="com.stranger.activity.PersonnalInfo"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 编辑个人资料页 -->
+        <activity
+            android:name="com.stranger.activity.EditPersonnalInfo"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 注册页 -->
+        <activity
+            android:name="com.stranger.pre.DSSignupActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 通讯列表页 -->
+        <activity
+            android:name="com.stranger.activity.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 聊天页 -->
+        <activity
+            android:name="com.stranger.activity.ChatActivity"
+            android:label="chat"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 新朋友 -->
+        <activity
+            android:name="com.stranger.activity.NewFriendActivity"
+            android:label="新朋友"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 图片浏览器 -->
+        <activity
+            android:name="com.stranger.activity.ImageBrowserActivity"
+            android:label="Image"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 星座运势 -->
+        <activity
+            android:name="com.stranger.activity.ConstellationActivity"
+            android:label="constellation"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 星座速配 -->
+        <activity
+            android:name="com.stranger.activity.Constell_CompActivity"
+            android:label="constellation"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 设置 -->
+        <activity
+            android:name="com.stranger.activity.SettingsActivity"
+            android:label="settings"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 摇一摇页 -->
+        <activity
+            android:name="com.stranger.shake_find.Shake"
+            android:label="摇一摇"
+            android:screenOrientation="portrait" />
+        <!-- 地图定位页 -->
+        <activity
+            android:name="com.stranger.map.LocationAct"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="location"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.stranger.map.Set"
+            android:label="set"
+            android:screenOrientation="portrait" />
+        <!-- 游戏页 -->
+        <activity
+            android:name="com.stranger.game.SeeColorMain"
+            android:label="game"
+            android:screenOrientation="portrait" />
+
+        <!-- 百度定位服务 -->
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" >
+            <intent-filter>
+                <action android:name="com.baidu.location.service_v3.3" >
+                </action>
+            </intent-filter>
+        </service>
+
+        <!-- BmobPush start -->
+        <service
+            android:name="cn.bmob.push.lib.service.PushService"
+            android:exported="true"
+            android:label="PushService"
+            android:permission="cn.bmob.permission.push"
+            android:process="cn.bmob.push" >
+            <intent-filter>
+                <action android:name="cn.bmob.push.lib.service.PushService" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name="cn.bmob.push.PushReceiver" >
+            <intent-filter android:priority="2147483647" > <!-- 优先级加最高 -->
+                <!-- 系统启动完成后会调用 -->
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <!-- 解锁完成后会调用 -->
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <!-- 监听网络连通性 -->
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+        
+        <!-- 消息聊天接收器 -->
+        <receiver android:name="com.stranger.receiver.MyPushReceiver" >
+            <intent-filter>
+                <action android:name="cn.bmob.push.action.MESSAGE" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 启动定时检测操作 -->
+        <service android:name="cn.bmob.im.poll.BmobPollService" >
+            <intent-filter>
+                <action android:name="cn.bmob.im.service.BmobPollService" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

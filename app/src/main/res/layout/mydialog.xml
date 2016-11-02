@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+    <LinearLayout 
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#f0f2f5"
+        android:layout_gravity="center"
+        android:padding="12dp"
+        android:gravity="center_horizontal">
+        
+        
+        <Button 
+            android:id="@+id/dialog_camera"
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:text="相机拍照"
+            android:background="@drawable/personnal_button_change"
+            android:textColor="@drawable/personnal_text_change"
+            android:layout_marginTop="20dp"/>
+        
+        <Button 
+            android:id="@+id/dialog_tuku"
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:background="@drawable/personnal_button_change"
+            android:textColor="@drawable/personnal_text_change"
+            android:text="选择图库"
+            android:layout_marginTop="20dp"/>
+        
+        <Button 
+            android:id="@+id/dialog_sure"
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:background="@drawable/personnal_button_change"
+            android:textColor="@drawable/personnal_text_change"
+            android:text="确认选择"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"/>
+    </LinearLayout>
+    
+
+</LinearLayout>

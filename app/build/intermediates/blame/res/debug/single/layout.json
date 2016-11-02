@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_additem_friend.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\list_additem_friend.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personnal_info.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\personnal_info.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ly_chat_bottom.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\ly_chat_bottom.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_person.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\layout_person.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_contacts.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\layout_contacts.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_left.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\chat_item_left.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_image_right.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\chat_image_right.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_image_left.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\chat_image_left.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_text_left.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\chat_text_left.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_left.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\frag_left.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_constell_comp.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\activity_constell_comp.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_ps_info.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\edit_ps_info.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_right.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\frag_right.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popview_settings.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\popview_settings.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_contacts.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\list_item_contacts.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_user_friend.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\item_user_friend.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_voice_right.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\chat_voice_right.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_ly_main.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\chat_ly_main.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_right.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\chat_item_right.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shake.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\activity_shake.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popview_more.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\popview_more.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mydialog.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\mydialog.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_main.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\frag_main.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_voice_left.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\chat_voice_left.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_signup.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\layout_signup.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_bottonbar.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\chat_bottonbar.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_show_picture.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\item_show_picture.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_interface.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\main_interface.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_message.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\list_item_message.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_message.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\layout_message.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_chat_voice_short.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\include_chat_voice_short.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_ly_speak.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\include_ly_speak.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_chat_add.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\include_chat_add.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_head.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\main_head.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\activity_new_friends.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_text_right.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\chat_text_right.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_constellation.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\activity_constellation.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_show_image.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\chat_show_image.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_action_bar.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\main_action_bar.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_login.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\layout\\layout_login.xml"
+    }
+]

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/word_box" >
+
+    <ImageView
+        android:id="@+id/action_shake"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/shake"
+        android:paddingBottom="5dp"
+        android:src="@drawable/action_shake" />
+
+    <TextView
+        android:id="@+id/tv_shake"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/action_shake"
+        android:paddingTop="2dp"
+        android:paddingLeft="5dp"
+        android:text="@string/h_shake"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/line"
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/action_shake"
+        android:background="@color/white"
+        android:contentDescription="@string/line" />
+
+    <ImageView
+        android:id="@+id/action_settings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/line"
+        android:contentDescription="@string/setting"
+        android:paddingTop="5dp"
+        android:src="@drawable/action_settings" />
+
+    <TextView
+        android:id="@+id/tv_settings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/line"
+        android:layout_toRightOf="@id/action_settings"
+        android:paddingLeft="5dp"
+        android:paddingTop="7dp"
+        android:text="@string/h_setting"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+</RelativeLayout>

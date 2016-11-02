@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_black.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\progress_black.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\v2_sortlistview_sidebar_background.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\v2_sortlistview_sidebar_background.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_personnal.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\action_personnal.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recent_name_text_color.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\recent_name_text_color.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_add_selector.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\btn_chat_add_selector.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuang.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\kuang.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button_change.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\login_button_change.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_textcolor_change.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\login_textcolor_change.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_shake.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\action_shake.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_more.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\action_more.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_fail_resend.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\btn_chat_fail_resend.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_add_camera_selector.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\btn_chat_add_camera_selector.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\personnal_text_change.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\personnal_text_change.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\v2_gallery_dialog_background.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\v2_gallery_dialog_background.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\include_chat_add.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\include_chat_add.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_voice_selector.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\btn_chat_voice_selector.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\chatto_bg.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_settings.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\action_settings.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_add_picture_selector.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\btn_chat_add_picture_selector.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_send_selector.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\btn_chat_send_selector.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_record_selector.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\btn_chat_record_selector.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_keyboard_selector.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\btn_chat_keyboard_selector.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\personnal_button_change.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\personnal_button_change.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recent_message_text_color.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\recent_message_text_color.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Stranger1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg.xml",
+        "source": "F:\\GitHub\\Stranger1\\app\\src\\main\\res\\drawable\\chatfrom_bg.xml"
+    }
+]
